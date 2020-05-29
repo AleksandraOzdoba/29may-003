@@ -1,4 +1,4 @@
 env: 
   global: 
   - MAIN=main 
-script: echo one1
+script: echo one12
