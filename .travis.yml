@@ -1,5 +1,8 @@
 env: 
   global: 
-  - MAIN=main 
-
+  - MAIN=main
+  
+import:
+  - source: other.yml
+  
 script: echo one
