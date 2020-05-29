@@ -1,3 +1,4 @@
-language: node_js
-script:
-  - echo 'OK'
+env: 
+  global: 
+  - MAIN=main 
+script: echo one
