@@ -2,8 +2,4 @@ env:
   global: 
   - MAIN=main
   
-import:
-  - source: other.yml
-    mode: deep_merge
-  
 script: echo one
